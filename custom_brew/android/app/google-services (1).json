@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120769489847",
+    "project_id": "custom-brew",
+    "storage_bucket": "custom-brew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120769489847:android:e72c2564da59fa93545632",
+        "android_client_info": {
+          "package_name": "com.code_leone.custom_brew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_js7DUMmZ79TzTtheYEqQKYYs0bS0waY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120769489847:android:6612355f0a62a51e545632",
+        "android_client_info": {
+          "package_name": "com.codeleone.custom_brew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_js7DUMmZ79TzTtheYEqQKYYs0bS0waY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
